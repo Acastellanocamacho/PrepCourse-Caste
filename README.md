@@ -1,2 +1,1 @@
-# PrepCourse-Caste
-este es el repositorio posta de modulo 2 prueba henry
+Este proyecto es una prueba de como crear repositorio y clonarlo desde github a mi escritorio local
